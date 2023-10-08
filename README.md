@@ -1,4 +1,5 @@
-<p align="center"><a><img title="Built With Love" src="https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg"> </a>
+<p align="center"><a><img title="Built With Love" ![A832015](https://github.com/mrjuice01/shark01/assets/100421286/f33476d6-d05b-4f16-95b3-10557113270c)
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/64035221/119222744-81b7a100-bb13-11eb-9def-51bbbf62a106.jpg">
        <!--<img src="https://github.com/E343IO/stuff/raw/main/20220325_184030.jpg"> -->
@@ -6,13 +7,13 @@
 #### <p align="center">**Future of Phishing is here**
 </p>
 <p align="center">
-<a href="https://github.com/Bhaviktutorials"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
- <a href="https://paypal.me/bhavikoza"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
- <a href="https://github.com/Bhaviktutorials/shark"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
-<a href="https://github.com/Bhaviktutorials"><img title="GitHub version" src="https://img.shields.io/github/license/Bhaviktutorials/T-Remix?color=Brightgree" ></a>
- <a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
- <a href="https://instagram.com/bhavik_tutorials"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Bhavik_Tutorials-ff69b4"/></a>
- <a href="https://github.com/Bhaviktutorials"><img title="Stars" src="https://img.shields.io/github/stars/Bhaviktutorials/shark?style=social" ></a>
+<a href="https://github.com/mrjuice01"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
+ <a href="https://paypal.me/mrjuiceofc"><img title="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue" ></a>
+ <a href="https://github.com/mrjuice01/shark01"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=2.5.1.beta&x2=0"></a>
+<a href="https://github.com/mrjuiceo1"><img title="GitHub version" src="https://img.shields.io/github/license/mrjuice/T-Remix?color=Brightgree" ></a>
+ <a href="https://www.youtube.com/@mrjuiceofc"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
+ <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
+ <a href="https://github.com/mrjuice01"><img title="Stars" src="https://img.shields.io/github/stars/mrjuice/sharko1?style=social" ></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
@@ -21,7 +22,8 @@
 ---
 
 ## <p align="center">**What is Shark??**
- <p align="center"> <img src="https://media.giphy.com/media/PfHrNe1cSKAjC/giphy.gif" width="170" height="100" >
+ ![shark2](https://github.com/mrjuice01/shark01/assets/100421286/68a62a3e-7f89-4830-9be3-89f3f086aac8)
+
 
 ###### <p align="center"> A shark is a tool that will help you do Phishing in an advanced way so no one checks and identify that you are doing phishing.For those guys who Don't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging, and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site. as shown in MR ROBOT.
 ***
@@ -34,7 +36,7 @@
 
 ### <p align="center"> <img src="https://media.giphy.com/media/l41YmiCZ8HXvVl5M4/giphy.gif" alt="Instagram" width="80" height="80" > **Instagram Tutorial :-**
 
-#### <p align="center"> [**IGTV**](https://www.instagram.com/tv/CV5RyXxgFvb/?utm_source=ig_web_copy_link)
+#### <p align="center"> [**IGTV**](https://www.instagram.com/mr_juice7/?utm_source=ig_web_copy_link)
 
 ## <p align="center"> **Installation of Shark:-**<img src="https://media.giphy.com/media/yNfHI92t4SDw64z8X7/giphy.gif" width="" height="50" >
 ### Debian (kali, Ubuntu ..etc )👇
@@ -42,7 +44,7 @@
 sudo apt update -y && sudo apt upgrade -y
 ```
 ```bash
-sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo bash
+sudo wget -qO- https://github.com/mrjuice01/shark01/raw/master/setup | sudo bash
 ```
 ***
 ### Android (Termux)👇
@@ -86,23 +88,17 @@ sudo wget -qO- https://github.com/Bhaviktutorials/shark/raw/master/setup | sudo 
 <table align="center" style="border:1px solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <th><img src="https://user-images.githubusercontent.com/64035221/112847573-d535e180-90c4-11eb-8a9a-dc1dfe06a675.png" width="100%" height="100%"></th>
-    <th><a href="https://github.com/E343IO/"><img src="https://avatars.githubusercontent.com/u/74646789?v=4" width="100%" height="100%"></th>
-    <th><img src="https://user-images.githubusercontent.com/64035221/112848945-3a3e0700-90c6-11eb-9c6b-db74023fe3f2.png" width="100%" height="100%"></th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Just-hack/"><p align='center'><b>Ashish Singh</b></td>
-    <td><a href="https://github.com/E343IO/"><p align="center"><b>Mr.Derek</b></td>
-    <td><a href="https://github.com/Bhaviktutorials/"><p align="center"><b>Bhavik Tutorials</b></td>
+    <td><a href="https://github.com/mrjuice01/"><p align='center'><b>Mr Juice</b></td>
   </tr>
   <tr>
     <td><p align='center'><b>Author</b></td>
-    <td><p align="center"><b>Contributor</b></td>
-    <td><p align="center"><b>Publisher</b></td>
   </tr>
 </table>
 
-<p align="center"><a href="https://www.buymeacoffee.com/BhavikTutorials" target="_blank"><img src="https://github.com/E343IO/stuff/blob/main/default-orange.webp?raw=true" alt="Buy Me A Coffee" height="41" width="174"></a>
-<p align="center"><a href="https://github.com/Bhaviktutorials"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
-<a href="https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
-<a href="https://t.me/bhaviktutorial"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
-<a href="https://www.instagram.com/bhavik_tutorials/"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
+<p align="center"><a href="https://wa.me/+263780699988" target="_blank"><img src="https://github.com/E343IO/stuff/blob/main/default-green.webp?raw=true" alt="Whatsapp Me" height="41" width="174"></a>
+<p align="center"><a href="https://github.com/mrjuice01"><img src="https://user-images.githubusercontent.com/64035221/96459220-834c7e00-123f-11eb-8417-534058a7ba62.png" alt="GitHub" width="80" height="80">
+<a href="https://www.youtube.com/@mrjuiceofc"><img src="https://user-images.githubusercontent.com/64035221/96456596-4f238e00-123c-11eb-821e-85e9aaa3faec.png" alt="YouTube" width="80" height="80">
+<a href="https://t.me/DeveloperJuice"><img src="https://user-images.githubusercontent.com/64035221/113977119-b91e0700-985f-11eb-9418-eab91ff1540e.png" alt="Telegram" width="80" height="">
+<a href="https://www.instagram.com/mr_juice7/"><img src="https://user-images.githubusercontent.com/64035221/113977904-e61ee980-9860-11eb-82d1-9ebd795c8138.png" alt="Instagram" width="80" height="">
