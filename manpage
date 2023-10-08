@@ -1,8 +1,8 @@
 .\" Manpage of shark
 
-.\" Contact Us on telegram : [https://t.me/bhaviktutorial] to correct errors or typos
+.\" Contact Us on telegram : [https://t.me/DevelopeJuice] to correct errors or typos
 
-.TH man 8 "25th December 2021" "2.5.1" "shark man page"
+.TH man 8 "25th December 2023" "2.5.1" "shark man page"
 
 .SH NAME
 shark 2.5.1
@@ -21,11 +21,11 @@ Options:
   --fix-cloudfl     Fix CloudFlared port forwarding issue
   --fix-patches     Check missing packages & fix patches
   --fix-cloudshell  Restart Vm and cloudshell & fix patches
-For additional info, see: https://github.com/Bhaviktutorials/shark
+For additional info, see: https://github.com/mrjuice01/shark01
 .SH BUGS
  If Such Bugs Find By Your Side Then Please Let Us know, By Creating An Issue Named As "Bug:shark" with Your Discription Of Explanation •Pointwise, Will Let You, As A Part Of Shark Contributors.
  -: sharing of knowledge is more expensive than Buying of ...
-                                   ~[Mr.Derek]
+                                   ~[Mr.Juice]
 .SH AUTHOR
 Ashish Singh 
 
