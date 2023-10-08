@@ -12,7 +12,7 @@
 <a href="https://github.com/mrjuiceo1"><img title="GitHub version" src="https://img.shields.io/github/license/mrjuice/T-Remix?color=Brightgree" ></a>
  <a href="https://www.youtube.com/@mrjuiceofc"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Bhavik Tutorials-green"/></a>
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
- <a href="https://github.com/mrjuice01"><img title="Stars" src="https://img.shields.io/github/stars/mrjuice01/shark01?style=social" ></a>
+ <a href="https://github.com/mrjuice01/shark01"><img title="Stars" src="https://img.shields.io/github/stars/mrjuice01/shark01?style=social" ></a>
 </p>
 
 ###### <p align="center">*This is official repository maintained by Mr Juice*
