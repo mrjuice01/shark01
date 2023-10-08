@@ -17,10 +17,10 @@
 
 ###### <p align="center">*This is official repository maintained by Mr Juice*
 ###### <p align="center"> *Instagram [**@Mr Juice**](https://www.instagram.com/mr_juice7/) ❤️*
-###### <p align="center"> *Youtube [m@Mr Juice OFC](https://www.youtube.com/@mrjuiceofc)❤️*
+###### <p align="center"> *Youtube [@Mr Juice OFC](https://www.youtube.com/@mrjuiceofc)❤️*
 ---
 
-## <p align="center">**What is Shark??**
+## <p align="center">**What is Shark?**
  ![shark2](https://github.com/mrjuice01/shark01/assets/100421286/68a62a3e-7f89-4830-9be3-89f3f086aac8)
 
 
