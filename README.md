@@ -1,9 +1,9 @@
-<p align="center"><a><img title="Built With ❤️ by mr juice" ![A832015](https://github.com/mrjuice01/shark01/assets/100421286/f33476d6-d05b-4f16-95b3-10557113270c)
+<p align="center"><a><a href="https://github.com/mrjuice01"><img title="built with ❤️ by mr juice"
 
 ![A832015](https://github.com/mrjuice01/shark01/assets/100421286/42e34ab5-4386-4f85-b7c9-28640a5843ec)
 
 
-#### <p align="center">**Future of Phishing is here**
+#### <p align="center">**Best Hacking Tool**
 </p>
 <p align="center">
 <a href="https://github.com/mrjuice01"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%99%A5-red" ></a>
@@ -16,15 +16,15 @@
 </p>
 
 ###### <p align="center">*This is official repository maintained by Mr Juice*
-###### <p align="center"> *[**@Mr Juice OFC**](https://www.instagram.com/mr_juice7/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/@mrjuiceofc)❤️*
+###### <p align="center"> *Instagram [**@Mr Juice**](https://www.instagram.com/mr_juice7/) ❤️*
+###### <p align="center"> *Youtube [m@Mr Juice OFC](https://www.youtube.com/@mrjuiceofc)❤️*
 ---
 
 ## <p align="center">**What is Shark??**
  ![shark2](https://github.com/mrjuice01/shark01/assets/100421286/68a62a3e-7f89-4830-9be3-89f3f086aac8)
 
 
-###### <p align="center"> A shark is a hackick tool that was firtsly created by shark team. This tool will help you do Phishing in an advanced way so no one checks and identify that you are doing phishing.For those guys who Don't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging, and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site. as shown in the tutorials.
+###### <p align="center"> A shark is a ADVANCED hacking tool that was firtsly created by shark team & now revived by Mr Juiuce. This tool will help you do Phishing in an advanced way so no one checks and identify that you are doing phishing.For those guys who Don't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging, and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site. as shown in the tutorials.
 ***
 
 ###### Uses ngrok - cloudflare Which helps in port forwarding. Soon will add more 
