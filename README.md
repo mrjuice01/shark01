@@ -16,8 +16,8 @@
 </p>
 
 ###### <p align="center">*This is official repository maintained by Mr Juice*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/mr_juice7/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/@mrjuiceofc)❤️*
+###### <p align="center"> *[**INSTAGRAM**](https://www.instagram.com/mr_juice7/) ❤️*
+###### <p align="center"> *SUBSCRIBE [YOUTUBE](https://www.youtube.com/channel/@mrjuiceofc)❤️*
 ---
 
 ## <p align="center">**What is Shark?**
