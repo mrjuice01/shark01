@@ -14,9 +14,10 @@
  <a href="https://instagram.com/mr_juice7"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mr_juice7-ff69b4"/></a>
  <a href="https://github.com/mrjuice01"><img title="Stars" src="https://img.shields.io/github/stars/mrjuice01/shark01?style=social" ></a>
 </p>
+
 ###### <p align="center">*This is official repository maintained by Mr Juice*
-###### <p align="center"> *Instagram [**@Mr Juice**](https://www.instagram.com/mr_juice7/) ❤️*
-###### <p align="center"> *Youtube [@Mr Juice OFC](https://www.youtube.com/@mrjuiceofc)❤️*
+###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/mr_juice7/) ❤️*
+###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/@mrjuiceofc)❤️*
 ---
 
 ## <p align="center">**What is Shark?**
